@@ -1,3 +1,11 @@
+# Python2_Portfolio
+This is the portfolio of python that I learned during BISC450C-V84
+
+## Feature Detection 
+### Object Detection
+
+In this class section we learned how to take an object from one picture and display how many of that object is in another picture with a heatmap 
+
 ```python
 # make sure to go to terminal and install: python -m pip install -- upgrade pip
 # then install: pip install opencv-python
@@ -44,8 +52,9 @@ plt.imshow(full)
 
 
 
+![output_6_1](https://github.com/user-attachments/assets/b3832e61-028b-4d87-bf22-27b722275bec)
 
-![png](output_6_1.png)
+
 
 
 
@@ -72,7 +81,8 @@ plt.imshow(test)
 
 
 
-![png](output_9_1.png)
+![output_9_1](https://github.com/user-attachments/assets/097d2ff8-1aed-4396-b76a-c560c038b409)
+
 
 
 
@@ -133,7 +143,8 @@ for m in methods:
 ```
 
 
-![png](output_12_0.png)
+![output_12_0](https://github.com/user-attachments/assets/ef2a769f-9046-4025-9798-3a93decd04c7)
+
 
 
     
@@ -143,7 +154,8 @@ for m in methods:
 
 
 
-![png](output_12_2.png)
+![output_12_2](https://github.com/user-attachments/assets/6c5b2a03-20c4-4531-a185-700bb2f90275)
+
 
 
     
@@ -153,7 +165,8 @@ for m in methods:
 
 
 
-![png](output_12_4.png)
+![output_12_4](https://github.com/user-attachments/assets/958ff37e-e516-4328-803c-514a396adf04)
+
 
 
     
@@ -163,7 +176,8 @@ for m in methods:
 
 
 
-![png](output_12_6.png)
+![output_12_6](https://github.com/user-attachments/assets/31df0566-4b73-4cc6-aa66-75fe3a14ec61)
+
 
 
     
@@ -173,7 +187,8 @@ for m in methods:
 
 
 
-![png](output_12_8.png)
+![output_12_8](https://github.com/user-attachments/assets/44f8d117-71a5-40ac-8df1-0fd12b068cf9)
+
 
 
     
@@ -183,7 +198,7 @@ for m in methods:
 
 
 
-![png](output_12_10.png)
+![output_12_10](https://github.com/user-attachments/assets/dff2ad06-0deb-4cc3-aae6-5b456dab6572)
 
 
     
