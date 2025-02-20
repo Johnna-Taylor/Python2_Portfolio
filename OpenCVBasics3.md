@@ -1,3 +1,11 @@
+# Python2_Portfolio
+This is the portfolio of python that I learned during BISC450C-V84
+
+## Open CV 
+### Part 3
+
+In this class section we learned how to do gray scale (black/white) with thresholds 
+
 ```python
 # https://github.com/worklifesg/Python-Computer-Vision-with-OpenCV-and-Deep-Learning
 # downlaod the rainbow and crossword jpgs 
@@ -29,7 +37,8 @@ plt.imshow(img)
 
 
 
-![png](output_3_1.png)
+![output_3_1](https://github.com/user-attachments/assets/ea017b69-5696-46f3-a3c0-82ea61632211)
+
 
 
 
@@ -50,8 +59,9 @@ plt.imshow(img, cmap = 'gray')
 
 
 
+![output_5_1](https://github.com/user-attachments/assets/aef17f19-9c7e-470a-9df3-97314259bc9a)
 
-![png](output_5_1.png)
+
 
 
 
@@ -87,7 +97,8 @@ plt.imshow(thresh1, cmap = 'gray')
 
 
 
-![png](output_8_1.png)
+![output_8_1](https://github.com/user-attachments/assets/3b035f2c-8cd8-42a7-b3c7-9f424268c801)
+
 
 
 
@@ -106,7 +117,8 @@ plt.imshow(thresh1, cmap = 'gray')
 
 
 
-![png](output_9_1.png)
+![output_9_1](https://github.com/user-attachments/assets/2c5affd3-4fc0-4dbd-9204-5ccc90ebc09d)
+
 
 
 
@@ -125,7 +137,8 @@ plt.imshow(thresh1, cmap = 'gray')
 
 
 
-![png](output_10_1.png)
+![output_10_1](https://github.com/user-attachments/assets/8be4f704-e5cb-4bf8-b890-021ec865c437)
+
 
 
 
@@ -142,7 +155,8 @@ plt.imshow(img_r, cmap = 'gray')
 
 
 
-![png](output_11_1.png)
+![output_11_1](https://github.com/user-attachments/assets/0def881d-2516-4c1e-97be-54ad6a1686f9)
+
 
 
 
@@ -160,7 +174,8 @@ show_pic(img_r)
 ```
 
 
-![png](output_13_0.png)
+![output_13_0](https://github.com/user-attachments/assets/adce4b78-046a-4a03-9f77-0431f0fb5792)
+
 
 
 
@@ -171,7 +186,8 @@ show_pic(th1)
 ```
 
 
-![png](output_14_0.png)
+![output_14_0](https://github.com/user-attachments/assets/23b8cdea-67fa-4f22-b2ca-f5abb3efa550)
+
 
 
 
@@ -181,7 +197,8 @@ show_pic(th1)
 ```
 
 
-![png](output_15_0.png)
+![output_15_0](https://github.com/user-attachments/assets/0a138112-dcd7-462a-8657-d419405c682e)
+
 
 
 
@@ -193,7 +210,8 @@ show_pic(th2)
 ```
 
 
-![png](output_16_0.png)
+![output_16_0](https://github.com/user-attachments/assets/87e3b2a2-6515-4714-ab84-1f9d11db5a03)
+
 
 
 
@@ -205,7 +223,8 @@ show_pic(blended)
 ```
 
 
-![png](output_17_0.png)
+![output_17_0](https://github.com/user-attachments/assets/0fbfb928-8d13-4467-aead-6640aca0de1d)
+
 
 
 
@@ -220,5 +239,6 @@ show_pic(blended)
 ```
 
 
-![png](output_18_0.png)
+![output_18_0](https://github.com/user-attachments/assets/d1849740-a31e-45e3-afaa-507d4178e0ce)
+
 
