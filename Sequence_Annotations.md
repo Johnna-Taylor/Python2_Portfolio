@@ -1,7 +1,7 @@
 # Python2_Portfolio
 This is the portfolio of python that I learned during BISC450C-V84
 
-## Sequence Annotations 1
+## Sequence Annotations 
 
 In this class we discussed how to do Sequence Annotations 
 
