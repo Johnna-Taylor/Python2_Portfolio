@@ -1,3 +1,11 @@
+# Python2_Portfolio
+This is the portfolio of python that I learned during BISC450C-V84
+
+## Aspect Detection 
+### Corner Detection
+
+In this class section we learned how to put markers(colored dots) on corners in a photo
+
 ```python
 # make sure to go to terminal and install: pip install --upgrade pip 
 # & then install: pip install opencv-python
@@ -33,7 +41,8 @@ plt.imshow(flat_chess)
 
 
 
-![png](output_3_1.png)
+![output_3_1](https://github.com/user-attachments/assets/e5400137-a693-476f-bc2b-d8b9288b48d6)
+
 
 
 
@@ -50,8 +59,9 @@ plt.imshow(gray_flat_chess, cmap = "gray")
 
 
 
+![output_4_1](https://github.com/user-attachments/assets/202fd0c7-db78-449d-a7b6-8863b24b8704)
 
-![png](output_4_1.png)
+
 
 
 
@@ -74,7 +84,8 @@ plt.imshow(real_chess)
 
 
 
-![png](output_6_1.png)
+![output_6_1](https://github.com/user-attachments/assets/15250f54-1268-4c0d-b531-98e051d107ae)
+
 
 
 
@@ -92,7 +103,8 @@ plt.imshow(gray_real_chess, cmap = 'gray')
 
 
 
-![png](output_7_1.png)
+![output_7_1](https://github.com/user-attachments/assets/827b8a9d-7bc6-47bf-b481-73cd1e0f2896)
+
 
 
 
@@ -122,7 +134,8 @@ plt.imshow(flat_chess)
 
 
 
-![png](output_9_1.png)
+![output_9_1](https://github.com/user-attachments/assets/0d2ffa6c-9ffb-4c69-a3d6-6c4691ec1b03)
+
 
 
 
@@ -147,7 +160,8 @@ plt.imshow(real_chess)
 
 
 
-![png](output_10_1.png)
+![output_10_1](https://github.com/user-attachments/assets/e6d8db32-6421-403e-ba61-8d261333953b)
+
 
 
 
@@ -176,7 +190,8 @@ plt.imshow(flat_chess)
 
 
 
-![png](output_12_1.png)
+![output_12_1](https://github.com/user-attachments/assets/b95922ee-e47b-4e17-895f-daf82e6de675)
+
 
 
 
@@ -200,7 +215,8 @@ plt.imshow(real_chess)
 
 
 
-![png](output_13_1.png)
+![output_13_1](https://github.com/user-attachments/assets/aef4854d-7e57-4ecc-9b13-b13815314fd7)
+
 
 
 
