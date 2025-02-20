@@ -1,3 +1,11 @@
+# Python2_Portfolio
+This is the portfolio of python that I learned during BISC450C-V84
+
+## Open CV
+### Part 1
+
+In this class section we learned how to import a photo, display it in the correct colors, scale the photo, and rotating the photo
+
 ```python
 # make sure to go to terminal and do: pip install --upgrade pip 
 # then do: pip install opencv-python
