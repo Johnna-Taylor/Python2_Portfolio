@@ -1,3 +1,10 @@
+# Python2_Portfolio
+This is the portfolio of python that I learned during BISC450C-V84
+
+## Sequence I/O
+
+In this class section we learned how to save a gene so that we can access its sequences, length, and much more
+
 ```python
 # go to terminal and download pip install Biopython before running this code 
 # also, make sure that the link below is saved in your files 
