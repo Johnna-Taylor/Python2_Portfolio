@@ -2,6 +2,7 @@
 This is the portfolio of python that I learned during BISC450C-V84
 
 ## Sequence I/O
+### Parts 1, 2, & 3
 
 In this class section we learned how to save a gene so that we can access its sequences, length, and much more
 
