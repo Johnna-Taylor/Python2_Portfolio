@@ -1,3 +1,11 @@
+# Python2_Portfolio
+This is the portfolio of python that I learned during BISC450C-V84
+
+## Sequence Alignment: Pairwise Alignment 
+## Parts 4 & 5
+
+In this class section we learned how to target a codon, target a query, do reverse complements, and search for codon sequences
+
 ```python
 # before running, go to Terminal and type: pip install Biopython 
 from Bio import Align
