@@ -1,3 +1,11 @@
+# Python2_Portfolio
+This is the portfolio of python that I learned during BISC450C-V84
+
+## Feature Detection
+### Feature Matches
+
+In this class section we learned how to compare two images and draw lines from one feature of one photo to a similar feature on the second photo 
+
 ```python
 # make sure to upgrade pip and pip install opencv-python
 import cv2
@@ -22,7 +30,8 @@ display(apple_jacks)
 ```
 
 
-![png](output_2_0.png)
+![output_2_0](https://github.com/user-attachments/assets/617cbdda-4e78-4fdd-aa1e-3d3ef4ac6ec5)
+
 
 
 
@@ -32,7 +41,8 @@ display(cereals)
 ```
 
 
-![png](output_3_0.png)
+![output_3_0](https://github.com/user-attachments/assets/45f646e7-80e3-44c4-b6a1-0e8bc4f7a433)
+
 
 
 
@@ -68,7 +78,8 @@ display(apple_jacks_matches)
 ```
 
 
-![png](output_8_0.png)
+![output_8_0](https://github.com/user-attachments/assets/ba8905ab-513c-4d83-9025-93976a0b1a51)
+
 
 
 
@@ -120,7 +131,8 @@ display(sift_matches)
 ```
 
 
-![png](output_14_0.png)
+![output_14_0](https://github.com/user-attachments/assets/a099470e-8c22-43f2-a2b4-1dee861e0f59)
+
 
 
 
@@ -163,7 +175,8 @@ display(flann_matches)
 ```
 
 
-![png](output_18_0.png)
+![output_18_0](https://github.com/user-attachments/assets/f45fb841-7561-4da2-aaf5-e4c66e84e2e0)
+
 
 
 
@@ -215,5 +228,6 @@ display(flann_matches)
 ```
 
 
-![png](output_24_0.png)
+
+![output_24_0](https://github.com/user-attachments/assets/f11b98a9-ffc4-49af-a45e-3d2780d8a5ed)
 
