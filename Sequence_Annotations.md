@@ -3,7 +3,7 @@ This is the portfolio of python that I learned during BISC450C-V84
 
 ## Sequence Annotations 
 
-In this class we discussed how to do Sequence Annotations 
+In this class we discussed how to do Sequence Annotations by creating a seq record, annotating it, and displaying some data from it
 
 ```python
 # make sure to go to terminal and do: pip install Biopython first to run this 
