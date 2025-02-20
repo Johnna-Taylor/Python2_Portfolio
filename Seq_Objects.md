@@ -1,3 +1,10 @@
+# Python2_Portfolio
+This is the portfolio of python that I learned during BISC450C-V84
+
+## Sequence Objects 
+
+In this class section we learned how to get values based off of a gene sequence 
+
 ```python
 from Bio.Seq import Seq
 # must go to terminal launcher to first import Biopython by just typing: 
