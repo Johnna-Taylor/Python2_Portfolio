@@ -1,3 +1,10 @@
+# Python2_Portfolio
+This is the portfolio of python that I learned during BISC450C-V84
+
+## Sequence Alignment
+
+In this class section we learned how to alter alignment of gene row data, name mapping, and create files within files for our data 
+
 ```python
 # before running, go to Terminal and type: pip install Biopython 
 # https://raw.githubusercontent.com/biopython/biopython/master/Doc/examples/PF05371_seed.sth
