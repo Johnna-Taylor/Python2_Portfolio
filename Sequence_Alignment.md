@@ -2,6 +2,7 @@
 This is the portfolio of python that I learned during BISC450C-V84
 
 ## Sequence Alignment
+### Parts 1, 2, and 3
 
 In this class section we learned how to alter alignment of gene row data, name mapping, and create files within files for our data 
 
