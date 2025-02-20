@@ -1,7 +1,8 @@
 # Python2_Portfolio
 This is the portfolio of python that I learned during BISC450C-V84
 
-## Sequence Annotations 
+## Sequence Annotations
+### Parts 1, 2, 3, & 4
 
 In this class we discussed how to do Sequence Annotations by creating a seq record, annotating it, and displaying some data from it
 
