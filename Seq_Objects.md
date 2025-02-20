@@ -2,6 +2,7 @@
 This is the portfolio of python that I learned during BISC450C-V84
 
 ## Sequence Objects 
+### Parts 1, 2, 3, & 4
 
 In this class section we learned how to get values based off of a gene sequence 
 
