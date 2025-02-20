@@ -1,3 +1,11 @@
+# Python2_Portfolio
+This is the portfolio of python that I learned during BISC450C-V84
+
+## SOpen CV 
+### Part 2
+
+In this class section we learned how to do hue saturation on a photo, as well as how to overlay one photo with another 
+
 ```python
 # make sure to go in terminal and install: pip install --upgrade pip
 # make sure to then go to terminal and install: pip install opencv-python
@@ -32,7 +40,8 @@ plt.imshow(img)
 
 
 
-![png](output_3_1.png)
+![output_3_1](https://github.com/user-attachments/assets/1560fa5f-7011-4858-aeeb-4d157d137b6f)
+
 
 
 
@@ -53,7 +62,8 @@ plt.imshow(img1)
 
 
 
-![png](output_5_1.png)
+![output_5_1](https://github.com/user-attachments/assets/f9b42a96-1ac6-4545-a698-abb0c1ad4f60)
+
 
 
 
@@ -75,7 +85,8 @@ plt.imshow(img2)
 
 
 
-![png](output_7_1.png)
+![output_7_1](https://github.com/user-attachments/assets/f9e5d69a-a7e8-47d0-bc52-b8e365d732be)
+
 
 
 
@@ -95,8 +106,9 @@ plt.imshow(img3)
 
 
 
+![output_9_1](https://github.com/user-attachments/assets/5c66991b-2753-4263-a5e4-4eeeeb539c0f)
 
-![png](output_9_1.png)
+
 
 
 
@@ -118,7 +130,8 @@ plt.imshow(img1)
 
 
 
-![png](output_11_1.png)
+![output_11_1](https://github.com/user-attachments/assets/fab61983-8fce-40ad-a071-1be96ea3baa7)
+
 
 
 
@@ -140,7 +153,8 @@ plt.imshow(img1)
 
 
 
-![png](output_13_1.png)
+![output_13_1](https://github.com/user-attachments/assets/efbbbcca-5455-481b-a8b6-d571367654b0)
+
 
 
 
@@ -156,7 +170,8 @@ plt.imshow(img2)
 
 
 
-![png](output_14_1.png)
+![output_14_1](https://github.com/user-attachments/assets/13e77814-2c05-4f5e-863c-e8eb383269d0)
+
 
 
 
@@ -190,7 +205,8 @@ plt.imshow(blended)
 
 
 
-![png](output_18_1.png)
+![output_18_1](https://github.com/user-attachments/assets/f0b47c69-1097-4680-9773-6a8dbcb7c9b9)
+
 
 
 
@@ -211,7 +227,8 @@ plt.imshow(blended1)
 
 
 
-![png](output_19_1.png)
+![output_19_1](https://github.com/user-attachments/assets/4087e603-7e30-4b4e-b818-7137f34489ef)
+
 
 
 
@@ -250,5 +267,6 @@ plt.imshow(large_img)
 
 
 
-![png](output_21_1.png)
+![output_21_1](https://github.com/user-attachments/assets/6ff11027-1d8b-40fa-affd-1812f5452114)
+
 
