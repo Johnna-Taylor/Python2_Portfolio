@@ -1,7 +1,7 @@
 # Python2_Portfolio
 This is the portfolio of python that I learned during BISC450C-V84
 
-## SOpen CV 
+## Open CV 
 ### Part 2
 
 In this class section we learned how to do hue saturation on a photo, as well as how to overlay one photo with another 
