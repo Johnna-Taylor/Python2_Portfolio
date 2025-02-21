@@ -1,3 +1,11 @@
+# Python2_Portfolio
+This is the portfolio of python that I learned during BISC450C-V84
+
+## Challenge + Blast 
+### Blast
+
+In this class section we learned how to use the NCBI database and import a gene sequence and get certain information from that gene sequence 
+
 ```python
 # first make sure to go to terminal and install "pip install Biopython"
 from Bio.Blast import NCBIWWW
