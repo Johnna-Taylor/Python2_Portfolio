@@ -69,7 +69,7 @@ result_handle = NCBIWWW.qblast("blastn", "nt", record.seq)
 
 
 ```python
-# we are reading our results in, read them, and close the connection to NCBI
+# we are reading our results in, reading them, and closing the connection to NCBI
 with open("my_blast.xml", "w") as out_handle:
     out_handle.write(result_handle.read())
 result_handle.close()
@@ -94,7 +94,7 @@ blast_record = NCBIXML.read(result_handle)
 
 
 ```python
-# looking at only e value sthat are 0.04 or higher in our results 
+# looking at only e-values that are 0.04 or higher in our results 
 E_VALUE_THRESH = 0.04
 ```
 
