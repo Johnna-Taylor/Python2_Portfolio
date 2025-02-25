@@ -4,7 +4,7 @@ This is the portfolio of python that I learned during BISC450C-V84
 ## Challenge + Blast 
 ### Challenge 1
 
-In this class section we weretasked with using the NCBI database to download a human cancer gene fasta file and Blasting it in Python in order to get the e-value compared to chimpanzees
+In this class section we were tasked with using the NCBI database to download a human cancer gene fasta file and Blasting it in Python in order to get the e-value compared to chimpanzees
 
 
 ```python
